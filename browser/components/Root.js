@@ -1,7 +1,17 @@
 import React, { Component } from 'react'
+import reactPng from '../images/react.png'
 
-export class Root extends Component {
+export default class Root extends Component {
   render(){
-    return <div>Root Component</div>
+    return <div>
+      <ReactImage />
+    </div>
   }
 }
+
+
+const ReactImage = () => (
+  <div className="react-image" >
+    <img src={reactPng} />
+  </div>
+)

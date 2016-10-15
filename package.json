@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "normalize.css": "^5.0.0",
     "webappatron": "file:///Users/deadlyicon/Work/webappatron"
   }
 }
