@@ -12,6 +12,7 @@
   "author": "Jared Grippe <jared",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.14.0",
     "normalize.css": "^5.0.0",
     "webappatron": "file:///Users/deadlyicon/Work/webappatron"
   }
